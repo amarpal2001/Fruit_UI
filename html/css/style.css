@@ -37,17 +37,18 @@ body {
   text-align: center;
   width: 145px;
   outline: none;
-  color: #f7f7f7;
+  color: #ffffff;
   border: 1px solid transparent;
 }
 
 .custom_dark-btn {
-  background-color: #000000;
+  background-color: #2b2c28;
+  border-radius: 12px 12px 12px 12px;
 }
 
 .custom_dark-btn:hover {
   border: 1px solid #000000;
-  color: #000000;
+  color: #0a0a0a;
   background-color: transparent;
 }
 
@@ -306,7 +307,7 @@ a:focus {
 }
 
 .service_section .card:hover::after {
-  background-color: #fc5d35;
+  background-color: #fc8535;
 }
 
 /* end service section */
