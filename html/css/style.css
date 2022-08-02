@@ -54,6 +54,7 @@ body {
 
 .custom_orange-btn {
   background-color: #fc5d35;
+  border-radius: 15px 15px 15px 15px;
 }
 
 .custom_orange-btn:hover {
@@ -501,5 +502,3 @@ a:focus {
 .footer_section a {
   color: #191818;
 }
-
-/* end footer section*/
